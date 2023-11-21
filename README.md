@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pirituli1 mexican and actually student 
 - 👀 I’m interested in learning about php and his framework laravel
-- 🌱 I’m currently learning php and git commands 
+- 🌱 I’m currently learning php and git commands. Also im looking some of SQL
 - 📫 How to reach me email:carlosebv.cfeit.2023@gmail.com  
 
 <!---
